@@ -1,0 +1,26 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Main {
+    color: greenyellow;
+}
+p {
+    color: wheat;
+    font-size: larger;
+}
+ul {
+    color: wheat;
+}
+ .lightblue-background {
+    background-color: lightblue;
+ }
+ .main-background {
+    background-color:black;
+ }
+ .larger {
+    font-size: larger;
+ }
+.fix-pos {
+    text-align: right;
+    font-size:larger;
+}

@@ -1,0 +1,14 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Main {
+    color: deepskyblue;
+}
+p {
+    color: tomato;
+    font-size: larger;
+}
+ul {
+    color: rgb(11, 81, 212);
+}
+    
